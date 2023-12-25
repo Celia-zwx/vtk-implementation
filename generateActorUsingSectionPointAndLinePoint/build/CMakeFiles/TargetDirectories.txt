@@ -1,0 +1,3 @@
+D:/vtk_code/generateActorUsingSectionPointAndLinePoint/build/CMakeFiles/GenerateActorUsingSectionPointAndLinePoint.dir
+D:/vtk_code/generateActorUsingSectionPointAndLinePoint/build/CMakeFiles/edit_cache.dir
+D:/vtk_code/generateActorUsingSectionPointAndLinePoint/build/CMakeFiles/rebuild_cache.dir
