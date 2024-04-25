@@ -1,5 +1,5 @@
 # vtk-implementation
-This repo includes my implementation of VTK in C++, the corresponding files are in test/ folder.
+This repo includes tools developed by me for Befem CAE software of VTK in C++, the corresponding functions files are in test/ folder and the relative research reports are in study_material folder.
 This repo has already finished functions:
 1. specify the rotation center
 2. fix the object to an absolute position of a window
