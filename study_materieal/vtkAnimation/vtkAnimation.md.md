@@ -104,7 +104,7 @@
   - SetStartTime()/SetEndTime() These represent the start and end times of the animation scene. This is the range that the animation time covers during playback. 设置动画开始时间/动画结束时间
   - SetPlayMode() 设置实时播放模式，设置顺序播放模式 This is used to control they playback mode i.e. how the animation time is changed. There are two modes available: 
     - Sequence Mode (PLAYMODE_SEQUENCE) In this mode, the animation time is increased by (1/frame-rate) for every frame until the EndTime is reached. Hence the number of frames rendered in a single run is fixed irrespective of how long each frame takes to render.
-    -  RealTime Mode (PLAYMODE_REALTIME) In this mode, the animation runs for approximately (EndTime-StartTime) seconds, where the animation time at nth frame is given by (animation time and (n-1)th frame + time to render (n-1)th frame). Thus the number of frames rendered changes depending on how 84 The Basics long each frame takes to render.
+    -  RealTime Mode (PLAYMODE_REALTIME) In this mode, the animation runs for approximately (EndTime-StartTime) seconds, where the animation time at nth frame is given by (animation time and (n-1)th frame + time to render (n-1)th frame). Thus the number of frames rendered changes depending on how long each frame takes to render.
   -  SetFrameRate()  设置帧率,单位时间内渲染的帧数,帧率越高越慢。帧率（Frame rate）是以帧称为单位的位图图像连续出现在显示器上的频率（速率）。 Frame rate is the number of frames per unit time. This is used only in sequence playmode. 
   - AddCue(), RemoveCue(), RemoveAllCue() Methods to add/remove animation cues from the scene. 
   - SetAnimationTime() SetAnimationTime can be used to explicitly advance to a particular frame. 
