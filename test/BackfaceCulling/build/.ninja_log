@@ -1,0 +1,19 @@
+# ninja log v5
+976	1069	7354827088389455	BackfaceCulling.exe	50843737352967c4
+12	976	7354851248097792	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	708b582d166a4da5
+13	4728	7355413113769211	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+4729	4873	7355413115178565	BackfaceCulling.exe	50843737352967c4
+19	1522	7355413837208678	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1522	1650	7355413838457861	BackfaceCulling.exe	50843737352967c4
+18	1497	7355416285121440	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1497	1643	7355416286527113	BackfaceCulling.exe	50843737352967c4
+15	1452	7355416538371719	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1453	1583	7355416539627730	BackfaceCulling.exe	50843737352967c4
+18	1827	7355417818046116	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1827	2002	7355417819699146	BackfaceCulling.exe	50843737352967c4
+18	1504	7355418342800900	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1504	1641	7355418344142173	BackfaceCulling.exe	50843737352967c4
+15	1515	7355420436640833	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1516	1661	7355420438049420	BackfaceCulling.exe	50843737352967c4
+15	1416	7355420683436889	CMakeFiles/BackfaceCulling.dir/BackfaceCulling.cxx.obj	4aeee428f2968418
+1416	1550	7355420684740165	BackfaceCulling.exe	50843737352967c4

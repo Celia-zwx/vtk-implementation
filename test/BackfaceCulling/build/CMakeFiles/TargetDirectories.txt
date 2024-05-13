@@ -1,0 +1,3 @@
+D:/vtk_code/BackfaceCulling/build/CMakeFiles/BackfaceCulling.dir
+D:/vtk_code/BackfaceCulling/build/CMakeFiles/edit_cache.dir
+D:/vtk_code/BackfaceCulling/build/CMakeFiles/rebuild_cache.dir
