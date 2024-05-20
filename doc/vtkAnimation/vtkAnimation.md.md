@@ -154,10 +154,17 @@ Relative使用案例：
 ###### 5.注意事项
 
 - Scene与Cue的时间关系:在relative mode中， cue的开始相对于scene的开始时间，但不会超过scene的结束时间 During playback, a cue is active when the scene's animation time is within the range specified the start and end times for the cue. When the cue is activated, it fires the vtkCommand::StartAnimationCueEvent. For every subsequent frame, it fires the vtkCommand::AnimationCueTickEvent until the end-time is reached when the vtkCommand::EndAnimationCueEvent is fired. 
+
 - 在AnimateActors.cxx里 scene->AddObserver(vtkCommand::AnimationCueTickEvent, renWin.GetPointer(),&vtkWindow::Render); //为什么额外需要scene观察：
   - 为了确保能在:AnimationCueTickEvent中触发render()， 因为此sphere 和cone都是独立在main里初始化，然后进行渲染的，与AnimationScene.cxx中在自己定义的callback函数StartCue的startCue()里初始化物体不一样
+  
+    
 
-###### 6.参考资料
+###### 6. Test Code:
+
+in /test/Animation
+
+###### 7.参考资料(Reference)
 
 - https://blog.csdn.net/qq_33598781/article/details/121588868
 

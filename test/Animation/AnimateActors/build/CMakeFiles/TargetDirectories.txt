@@ -1,0 +1,3 @@
+D:/vtk_code/AnimateActors/build/CMakeFiles/AnimateActors.dir
+D:/vtk_code/AnimateActors/build/CMakeFiles/edit_cache.dir
+D:/vtk_code/AnimateActors/build/CMakeFiles/rebuild_cache.dir
