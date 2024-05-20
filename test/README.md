@@ -5,3 +5,4 @@ This repo has already finished functions:
 2. fix the object to an absolute position of a window
 3. extrude the 2D polygons along a vector(double T cells工字梁结构) --- done, a line --- done
 4. Enable the backface culling for a property --in /BackfaceCulling
+5. Test code for animation -- in /Animation
