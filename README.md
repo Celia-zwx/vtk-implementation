@@ -28,11 +28,11 @@ This repo includes tools developed by me for Befem CAE software based on VTK(Vis
 * /test : test code
 
 ## Technical Stack
-Build Tools
+Build Tools:
 * cmake
 * make or ninja
   
-Tool Libraries
+Tool Libraries:
 * GUI: qt6.3.1
 * Visualization: VTK 9.2.0 / OpenGL
 * Logging: spdlog 1.10.0
