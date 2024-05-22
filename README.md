@@ -46,16 +46,23 @@ From your command line:
 $ git clone https://github.com/Celia-zwx/Movie-Theatre-application.git
 
 # Go into the repository
-$ cd Movie-Theatre-application
+$ cd vtk-implementation
 
-# Install library dependencies
-$ pip3 install "name of the library"
+# Go into the test folder
+$ cd test/Animation/Animation
+
+# build the project
+$ cmake -B build
+$ cd build
+$ ninja
+
+
 
 
 # Run the app
-$ python3 main.py
+$ ./Animation.cxx
 
-# Open the Chrome and go to  http://127.0.0.1:5000
+
 
 ```
 
@@ -71,13 +78,13 @@ $ python3 main.py
 * pymysql
 
 ## Reference
-Study guide for vtk
+# Study guide for vtk
 https://docs.vtk.org/en/latest/getting_started/index.html
 
-what is CAE?
+# what is CAE?
 https://en.wikipedia.org/wiki/Computer-aided_engineering
 
-Introduction for BeFem CAE software
+# Introduction for BeFem CAE software
 https://bda.pku.edu.cn/info/1003/2467.htm
 
 
