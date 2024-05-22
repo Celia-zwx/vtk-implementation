@@ -1,20 +1,13 @@
 # vtk-implementation
-This repo includes tools developed by me for Befem CAE software of VTK in C++, the corresponding functions files are in test/ folder and the relative research reports are in study_material folder.
-This repo has already finished functions:
-1. specify the rotation center
-2. fix the object to an absolute position of a window
-3. extrude the 2D polygons along a vector(double T cells工字梁结构) --- done, a line --- done
-4. animation
-# vtk-implementation
 
 <img src="/vtk_logo.png" alt="Alt text" title="VTK">
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+    <a href="#functions">Functions</a> •
   <a href="#techinal-stack">Technical Stack</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#environment">Windows Users Environment Setup</a> •
-  <a href="#changes">Changes</a> •
   <a href="#license">License</a>
 </p>
 
@@ -24,8 +17,18 @@ This repo has already finished functions:
 
 This repo includes tools developed by me for Befem CAE software based on VTK(Visual Tool Kits), in C++, built with Msys2 Mingw64 environment
 
-* /doc : report of functions
-* /test : test code
+* /doc: report of functions
+* /test: test code
+
+
+## Functions
+
+This repo includes tools developed by me for Befem CAE software of VTK in C++, the corresponding functions files are in /test folder and the relative research reports are in /doc folder.
+This repo has already finished functions:
+1. specify the rotation center
+2. fix the object to an absolute position of a window
+3. extrude the 2D polygons along a vector(double T cells工字梁结构) --- done, a line --- done
+4. animation
 
 ## Technical Stack
 Build Tools:
