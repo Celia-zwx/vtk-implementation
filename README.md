@@ -13,7 +13,7 @@ This repo has already finished functions:
   <a href="#key-features">Key Features</a> •
   <a href="#techinal-stack">Technical Stack</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#required-library">Required library</a> •
+  <a href="#environment">Windows Users Environment Setup</a> •
   <a href="#changes">Changes</a> •
   <a href="#license">License</a>
 </p>
@@ -42,7 +42,7 @@ Tool Libraries:
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), c++, cmake, QT6, VTK 9.2.0
+To clone and run this application, you'll need [Git](https://git-scm.com), C++, Cmake, QT6, VTK 9.2.0
 
 
 
@@ -61,9 +61,6 @@ $ cmake -B build
 $ cd build
 $ ninja
 
-
-
-
 # Run the app
 $ ./Animation.cxx
 
@@ -73,14 +70,10 @@ $ ./Animation.cxx
 
 
 
-## Required library
-* flask 
-* datetime
-* sqlalchemy.orm
-* sqlalchemy.ext
-* sqlalchemy
-* mysql.connector
-* pymysql
+## Windows Users Environment Setup
+* [msys2](https://www.msys2.org/)
+* mingw
+
 
 ## Reference
  Study guide for vtk:
