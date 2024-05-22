@@ -42,14 +42,13 @@ Tool Libraries:
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), python3 and mySQLworkbench 8.0.31
+To clone and run this application, you'll need [Git](https://git-scm.com), c++, cmake, QT6, VTK 9.2.0
 
-* change the line in main.py, app.py: mysql+pymysql://username:password@localhost:port/db to what you set in the "Set up the Local database" section
-From your command line:
+
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Celia-zwx/Movie-Theatre-application.git
+$ git clone https://github.com/Celia-zwx/vtk-implementation.git
 
 # Go into the repository
 $ cd vtk-implementation
