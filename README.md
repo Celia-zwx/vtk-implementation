@@ -78,13 +78,13 @@ $ ./Animation.cxx
 * pymysql
 
 ## Reference
-# Study guide for vtk
+ Study guide for vtk:
 https://docs.vtk.org/en/latest/getting_started/index.html
 
-# what is CAE?
+ what is CAE?
 https://en.wikipedia.org/wiki/Computer-aided_engineering
 
-# Introduction for BeFem CAE software
+ Introduction for BeFem CAE software
 https://bda.pku.edu.cn/info/1003/2467.htm
 
 
