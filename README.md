@@ -11,7 +11,7 @@ This repo has already finished functions:
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#techinal-stack">Set up the local database</a> •
+  <a href="#techinal-stack">Technical Stack</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#required-library">Required library</a> •
   <a href="#changes">Changes</a> •
