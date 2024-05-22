@@ -14,7 +14,6 @@ This repo has already finished functions:
   <a href="#set-up-the-local-database">Set up the local database</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#required-library">Required library</a> •
-  <a href="#reference">Reference</a> •
   <a href="#changes">Changes</a> •
   <a href="#license">License</a>
 </p>
