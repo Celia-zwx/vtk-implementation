@@ -1,0 +1,3 @@
+D:/vtk_code/DeleteCells/build/CMakeFiles/DeleteCells.dir
+D:/vtk_code/DeleteCells/build/CMakeFiles/edit_cache.dir
+D:/vtk_code/DeleteCells/build/CMakeFiles/rebuild_cache.dir
