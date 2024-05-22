@@ -7,7 +7,7 @@ This repo has already finished functions:
 4. animation
 # vtk-implementation
 
-<img src="/6400project.drawio.png" alt="Alt text" title="ER Diagram">
+<img src="/vtk_logo.png" alt="Alt text" title="VTK">
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
