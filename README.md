@@ -11,7 +11,7 @@ This repo has already finished functions:
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#set-up-the-local-database">Set up the local database</a> •
+  <a href="#techinal-stack">Set up the local database</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#required-library">Required library</a> •
   <a href="#changes">Changes</a> •
@@ -27,11 +27,17 @@ This repo includes tools developed by me for Befem CAE software based on VTK(Vis
 * /doc : report of functions
 * /test : test code
 
-## Set up the local database
-* download mysqlworkbench
-* create a new connection, set the hostname to 127.0.0.1, port to 3306(mainly 3306 but it depends on your port), set up the password and username
-* create a new schema called "db"
-* run table.sql and then data.sql
+## Technical Stack
+Build Tools
+* cmake
+* make or ninja
+Tool Libraries
+* GUI: qt6.3.1
+* Visualization: VTK 9.2.0 / OpenGL
+* Logging: spdlog 1.10.0
+* String Utilities: fmt 8.1.1
+* Boost 1.67 and above
+
 
 ## How To Use
 
