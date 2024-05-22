@@ -13,6 +13,10 @@
 
 ## Delete Points
 
+First we build a polydata with four points and line cells, and buildlinks:
+
+![image-20240522211029041](./vtk_delete_cells_points.assets/image-20240522211029041.png)
+
 1. Use  polydata->DeletePoint(deletePointId);
 
 - in vtkCellLinks.h:
