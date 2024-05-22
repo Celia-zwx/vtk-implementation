@@ -67,7 +67,7 @@
 
 ###### 3.流程图
 
-![alt](.\vtk_animation_flow_chart.jpg)
+![alt](./vtk_animation_flow_chart.jpg)
 
 ###### 4. 名词解释
 
