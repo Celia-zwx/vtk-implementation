@@ -1,0 +1,3 @@
+D:/vtk_code/DeletePoint/build/CMakeFiles/DeletePoint.dir
+D:/vtk_code/DeletePoint/build/CMakeFiles/edit_cache.dir
+D:/vtk_code/DeletePoint/build/CMakeFiles/rebuild_cache.dir
