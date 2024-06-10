@@ -70,6 +70,12 @@ First we build a polydata with four points and line cells, and buildlinks:
 
 ### Issues:
 
+`this->Array[ptId].ncells = 0;`: This sets the number of cells associated with the point `ptId` to 0. It effectively removes any link information for this point.
+
+`delete[] this->Array[ptId].cells;`: This deallocates the memory that was previously allocated for storing the cells linked to the point `ptId`. The use of `delete[]` suggests that `cells` is an array of some type.
+
+`this->Array[ptId].cells = nullptr;`: This sets the pointer to the array of cells to `nullptr` (or `NULL` in older C++ standards), ensuring that there are no dangling pointers after the memory has been deallocated.
+
 ### Resource:
 
 Allowing a point to be deleted from vtkPoints can cause a data set that uses the point to become corrupted. You would also have to delete all cells that use that point as well as shrink the point data arrays.
