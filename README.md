@@ -23,12 +23,13 @@ This repo includes tools developed by me for Befem CAE software based on VTK(Vis
 
 ## Functions
 
-This repo includes tools developed by me for Befem CAE software of VTK in C++, the corresponding functions files are in /test folder and the relative research reports are in /doc folder.
-This repo has already finished functions:
-1. specify the rotation center
-2. fix the object to an absolute position of a window
-3. extrude the 2D polygons along a vector(double T cells工字梁结构) --- done, a line --- done
-4. animation
+This repo includes tools developed by me for Befem CAE software of VTK in C++, the corresponding functions files are in /test folder and the relative research reports are in /doc folder. The tools have already been integrated to Befem CAE software.
+This repo has already finished features:
+1. Specify the rotation center
+2. Fix the object to an absolute position of a window
+3. Extrude the 2D polygons along a vector or a line to build tunnel structure cells, in Befem I build a double T beams cell.
+4. Animation
+5. Delete cell and delete point
 
 ## Technical Stack
 Build Tools:
